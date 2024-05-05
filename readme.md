@@ -7,6 +7,10 @@
 
 <h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
 
+# IMPORTANT NOTE: I have decided to be a archive this project, itll still be up but its recommended to use https://github.com/LelouchFR/skill-icons since i cant always be online and make updates, and this guys named LelouchFR cooks :fire:
+## How to migrate:
+Simply replace https://talent-icons.hawlidoge.workers.dev/icons or/and https://skillicons.dev/icons with https://go-skill-icons.vercel.app/api/icons
+
 # What happened to Skill Icons?
 
 The developer of Skill Icons, tandpfun, decided to not care about his project; **there are already over 500 open issues on the original Skill Icons repo and a bunch of pull requests that have not been merged**, so I decided to make my own fork of the Skill Icons that gets maintained.
